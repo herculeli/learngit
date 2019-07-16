@@ -13,7 +13,7 @@ sjhbdajhsbdj
 
 sdjasdjsnakjnj
 jsajdkjasn
-
+李汉奇今天很忙
 #def calCorrcoef(x,y):
 #    x=x.reshape((1,x.size))
     y=y.reshape((1,y.size))
